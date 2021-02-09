@@ -10,5 +10,7 @@ My research is at the intersection of computer science and economics, particular
 
 I have an MPhil in Economics Research from Cambridge University, a First in Philosophy, Politics and Economics from Warwick University.
 
-You can reach me at ljfgudgeon@gmail.com.
+You can reach me by [email](mailto:ljfgudgeon@gmail.com) here.
+
+Also: [Twitter](https://www.twitter.com/ljfgudgeon), [GitHub](https://www.github.com/fsxforte).
 
