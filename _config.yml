@@ -20,7 +20,27 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: heiswayi/the-plain
 
 # Custom vars
 version:             1
 google_analytics_id: #UA-XXXX-Y
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
