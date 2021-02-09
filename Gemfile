@@ -1,11 +1,8 @@
-source 'https://rubygems.org'
-
-gem 'jekyll-remote-theme'
-
+source "https://rubygems.org"
+gemspec
 group :jekyll_plugins do
-    gem 'jekyll-sitemap'
-    gem 'jekyll-gist'
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-paginate'
-    gem 'jekyll-feed'
-  end
+    gem "jekyll-sitemap"
+end
+gem 'html-proofer'
+gem 'tzinfo'
+gem 'tzinfo-data'
