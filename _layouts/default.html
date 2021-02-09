@@ -5,6 +5,9 @@ published: true
 
 <!DOCTYPE html>
 <html lang="en">
+	<style>
+	h3 {text-align: center;}
+	</style>
 
 	<head>
 		{% include head.html %}
@@ -12,7 +15,11 @@ published: true
 
 	<body>
 
+		
 		{% include header.html %}
+		
+		<h3>{% include navigation.html %}</h3>
+		
 
 		<div id="content">
 			{{ content }}
