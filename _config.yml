@@ -1,8 +1,8 @@
 # Site Info
 title:              "Lewis Gudgeon"
 description:        "Personal website of Lewis Gudgeon"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://api.github.com/users/fsxforte # Get it from GitHub API: https://api.github.com/users/<username>
+author_name:        "Lewis Gudgeon" # change this to your name
+# logo_url:           https://api.github.com/users/fsxforte # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://fsxforte.github.io # main url
