@@ -1,17 +1,15 @@
-# Setup
-title:               Lewis Gudgeon
-tagline:             ''
-description:         ''
-url:                 http://www.lewisgudgeon.com
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+# Site Info
+title:              "The Plain"
+description:        "A minimalist Jekyll theme"
+author_name:        "Heiswayi Nrird" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
-# About/contact
-author:
-  name:              Lewis Gudgeon
-  url:               https://twitter.com/ljfgudgeon
-  email:             ljfgudgeon@gmail.com
+# Site Settings
+url:                https://heiswayi.github.io # main url
+baseurl:            /the-plain
+permalink:          /:title # Post permalink
+timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
 highlighter:        rouge
@@ -21,24 +19,13 @@ kramdown:
 sass:
     style:          :compressed
 
-# Gems
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-remote-theme
-
-remote_theme: heiswayi/the-plain
-
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
 
-# Custom vars
-version:             1
-google_analytics_id: #UA-XXXX-Y
+
 
 defaults:
   -
