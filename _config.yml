@@ -6,7 +6,7 @@ logo_url:           "/assets/headshot.jpg" # Get it from GitHub API: https://api
 
 # Site Settings
 url:                fsxforte.github.io # main url
-baseurl:            /
+# baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
