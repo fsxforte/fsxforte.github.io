@@ -7,3 +7,5 @@ gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
 gem 'kramdown-parser-gfm'
+
+gem "webrick", "~> 1.7"
