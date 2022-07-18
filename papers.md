@@ -4,6 +4,9 @@ layout: page
 
 <h2>Computer Science</h2>
 
+* **Dissimilar Reundancy in DeFi** Perez, D. and Gudgeon, L. The 3rd International Conference on
+Mathematical Research for Blockchain Economy, 2022. [[PDF]](https://arxiv.org/pdf/2201.12563.pdf)
+
 * **SoK: Decentralized Finance (DeFi).** Werner, S., Perez, D., Gudgeon, L., Klages-Mundt, A., Harz, D., Knottenbelt, W. [[PDF]](https://arxiv.org/pdf/2101.08778.pdf)
 
 * **Stablecoins 2.0: Economic Foundations and Risk-based Models.** Klages-Mundt, A., Harz, D., Gudgeon, L., Liu, J.Y. and Minca, A. Advances in Financial Technologies 2020. [[PDF]](https://arxiv.org/pdf/2006.12388.pdf)
